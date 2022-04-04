@@ -6,7 +6,7 @@ int main()
     int dias;
     float anos;
 
-    printf("Entre com o número de dias: ");
+    printf("Entre com o nÃºmero de dias: ");
     scanf("%d", &dias); // %d = leitura de inteiro, &dias = armazena na variavel 'dias'
     // no caso de dois ou mais parametros, estes sao separados por virgula
 
